@@ -62,27 +62,27 @@
 //     },
 //   }
 module.exports = {
-  base: '/JintaoYang-LearningVuePress/',
-  title: 'Yang\'s Learning VuePress (unaccomplished)',
-  description: 'fun',
-  themeConfig: {
-    // repo: 'vuepressjs/vuepress-theme-blog',
-    docsDir: 'docs',
-    editLinks: false,
-    editLinkText: 'Edit this page on GitHub',
-    navbar: [
-      { text: 'Guide', link: '/' },
-      { text: 'Config', link: '/config/cop' },
-    ],
-    sidebarDepth: 3,
-    sidebar: {
-      '/config/': [
-        // '',
-        'cop',
-        'front-matter',
-        'palette'
-      ],
+    base: '/JintaoYang-LearningVuePress/',
+    title: 'Yang\'s Learning VuePress (unaccomplished)',
+    description: 'fun',
+    themeConfig: {
+        // repo: 'vuepressjs/vuepress-theme-blog',
+        docsDir: 'docs',
+        editLinks: false,
+        editLinkText: 'Edit this page on GitHub',
+        navbar: [
+            { text: 'Guide', link: '/' },
+            { text: 'Config', link: '/config/cop' },
+        ],
+        sidebarDepth: 3,
+        sidebar: {
+            '/config/': [
+                // '',
+                'cop',
+                'front-matter',
+                'palette'
+            ],
+        },
+        smoothScroll: true,
     },
-    smoothScroll: true,
-  },
 }
