@@ -62,6 +62,7 @@
 //     },
 //   }
 module.exports = {
+  base: '/JintaoYang-LearningVuePress/',
   title: 'Yang\'s Learning VuePress (unaccomplished)',
   description: 'fun',
   themeConfig: {
