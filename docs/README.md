@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-next: /config/
+next: /config/cop
 ---
 
 # Guide
@@ -9,6 +9,10 @@ next: /config/
 ## Intro
 
 > Default blog theme for VuePress 
+
+![学习VuePress](./assets/hero.png)
+
+Learning VuePress.
 
 We try to implement all the common and necessary blog features in the plugin.
 

@@ -3,6 +3,8 @@
 <blockquote>
 <p>Default blog theme for VuePress</p>
 </blockquote>
+<p><img src="@source/assets/hero.png" alt="学习VuePress"></p>
+<p>Learning VuePress.</p>
 <p>We try to implement all the common and necessary blog features in the plugin.</p>
 <h2 id="getting-started-from-scratch" tabindex="-1"><a class="header-anchor" href="#getting-started-from-scratch" aria-hidden="true">#</a> Getting Started from scratch</h2>
 <p>In this guide, you'll learn how to add default blog theme to a new project manually.</p>

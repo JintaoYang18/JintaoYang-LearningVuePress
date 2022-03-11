@@ -5,7 +5,7 @@ export const data = {
   "lang": "en-US",
   "frontmatter": {
     "sidebar": "auto",
-    "next": "/config/"
+    "next": "/config/cop"
   },
   "excerpt": "",
   "headers": [

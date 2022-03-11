@@ -25,12 +25,12 @@ export const themeData = {
     ]
   },
   "smoothScroll": true,
+  "logo": "/images/logo2.png",
   "locales": {
     "/": {
       "selectLanguageName": "English"
     }
   },
-  "logo": null,
   "darkMode": true,
   "repo": null,
   "selectLanguageText": "Languages",

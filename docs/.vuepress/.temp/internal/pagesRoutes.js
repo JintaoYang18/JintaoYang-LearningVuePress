@@ -5,7 +5,6 @@ const routeItems = [
   ["v-f411d42e","/config/cop.html",{"title":"Options"},["/config/cop","/config/cop.md"]],
   ["v-79a80100","/config/front-matter.html",{"title":"Front Matter"},["/config/front-matter","/config/front-matter.md"]],
   ["v-040f4d5c","/config/palette.html",{"title":"Palette"},["/config/palette","/config/palette.md"]],
-  ["v-ba934fd8","/config/",{"title":"Options"},["/config/index.html","/config/README.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
 ]
 

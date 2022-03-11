@@ -85,5 +85,6 @@ module.exports = {
             ],
         },
         smoothScroll: true,
-    },
+        logo: '/images/logo2.png',
+    },    
 }
