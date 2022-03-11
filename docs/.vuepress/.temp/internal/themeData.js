@@ -4,6 +4,10 @@ export const themeData = {
   "editLinkText": "Edit this page on GitHub",
   "navbar": [
     {
+      "text": "Yang's Blog",
+      "link": "https://jintaoyang18.github.io/JintaoYang-Blog/"
+    },
+    {
       "text": "Guide",
       "link": "/"
     },
