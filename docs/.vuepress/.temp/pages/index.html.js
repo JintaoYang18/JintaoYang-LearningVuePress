@@ -1,7 +1,7 @@
 export const data = {
   "key": "v-8daa1a0e",
   "path": "/",
-  "title": "Guide",
+  "title": "指南",
   "lang": "en-US",
   "frontmatter": {
     "sidebar": "auto",
@@ -11,73 +11,55 @@ export const data = {
   "headers": [
     {
       "level": 2,
-      "title": "Intro",
-      "slug": "intro",
+      "title": "介绍",
+      "slug": "介绍",
       "children": []
     },
     {
       "level": 2,
-      "title": "Getting Started from scratch",
-      "slug": "getting-started-from-scratch",
+      "title": "快速开始",
+      "slug": "快速开始",
       "children": [
         {
           "level": 3,
-          "title": "Installation",
-          "slug": "installation",
+          "title": "依赖",
+          "slug": "依赖",
           "children": []
         },
         {
           "level": 3,
-          "title": "Folder structure",
-          "slug": "folder-structure",
+          "title": "安装",
+          "slug": "安装",
           "children": []
         },
         {
           "level": 3,
-          "title": "Using @vuepress/theme-blog",
-          "slug": "using-vuepress-theme-blog",
+          "title": "写作",
+          "slug": "写作",
           "children": []
         },
         {
           "level": 3,
-          "title": "Generating content",
-          "slug": "generating-content",
-          "children": []
-        },
-        {
-          "level": 3,
-          "title": "Blog tags",
-          "slug": "blog-tags",
-          "children": []
-        },
-        {
-          "level": 3,
-          "title": "Summary",
-          "slug": "summary",
+          "title": "部署到GitHub",
+          "slug": "部署到github",
           "children": []
         }
       ]
     },
     {
       "level": 2,
-      "title": "Quick Start",
-      "slug": "quick-start",
-      "children": []
-    },
-    {
-      "level": 2,
-      "title": "Final",
-      "slug": "final",
+      "title": "最后",
+      "slug": "最后",
       "children": []
     }
   ],
   "git": {
-    "updatedTime": 1646915195000,
+    "updatedTime": 1646970288000,
     "contributors": [
       {
         "name": "JintaoYang18",
         "email": "colsonyang212@gmail.com",
-        "commits": 1
+        "commits": 2
       }
     ]
   },

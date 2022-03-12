@@ -3,6 +3,14 @@ export const siteData = {
   "lang": "en-US",
   "title": "Yang's Learning VuePress (unaccomplished)",
   "description": "fun",
-  "head": [],
+  "head": [
+    [
+      "link",
+      {
+        "rel": "icon",
+        "href": "./images/logo2.png"
+      }
+    ]
+  ],
   "locales": {}
 }

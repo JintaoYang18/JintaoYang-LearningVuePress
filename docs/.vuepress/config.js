@@ -65,6 +65,7 @@ module.exports = {
     base: '/JintaoYang-LearningVuePress/',
     title: 'Yang\'s Learning VuePress (unaccomplished)',
     description: 'fun',
+    head: [['link', { rel: 'icon', href: './images/logo2.png' }]],
     themeConfig: {
         // repo: 'vuepressjs/vuepress-theme-blog',
         docsDir: 'docs',
