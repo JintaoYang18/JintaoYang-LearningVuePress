@@ -63,7 +63,7 @@
 //   }
 module.exports = {
     base: '/JintaoYang-LearningVuePress/',
-    title: 'Yang\'s Learning VuePress (unaccomplished)',
+    title: 'Yang\'s Learning VuePress',
     description: 'fun',
     head: [['link', { rel: 'icon', href: './images/logo2.png' }]],
     themeConfig: {

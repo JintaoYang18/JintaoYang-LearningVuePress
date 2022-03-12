@@ -1,7 +1,7 @@
 export const siteData = {
   "base": "/JintaoYang-LearningVuePress/",
   "lang": "en-US",
-  "title": "Yang's Learning VuePress (unaccomplished)",
+  "title": "Yang's Learning VuePress",
   "description": "fun",
   "head": [
     [
